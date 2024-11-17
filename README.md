@@ -19,7 +19,7 @@ This project helps us to understand the basic working of Bank accounts. Some of 
 **1. Clone the repository**
 
 ```bash
-    git clone github.com/Skmnk/Banking-Application.git
+    git clone https://github.com/Skmnk/Banking-Application.git
 ```
 
 **2. Move to root directory of backend**
