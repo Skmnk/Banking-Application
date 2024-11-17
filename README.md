@@ -19,7 +19,7 @@ This project helps us to understand the basic working of Bank accounts. Some of 
 **1. Clone the repository**
 
 ```bash
-    git clone
+    git clone github.com/Skmnk/Banking-Application.git
 ```
 
 **2. Move to root directory of backend**
@@ -88,7 +88,7 @@ The app defines following APIs.
 
 ![Register image](https://github.com/Skmnk/Banking-Application/blob/main/readme-images/register.jpeg)
 
-### Home
+### Dashboard
 
 ![Dashboard image](https://github.com/Skmnk/Banking-Application/blob/main/readme-images/dashboard.jpeg)
 
