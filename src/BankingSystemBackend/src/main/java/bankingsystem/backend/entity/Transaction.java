@@ -28,4 +28,44 @@ public class Transaction implements Comparable<Transaction> {
     public int compareTo(Transaction transaction) {
         return this.getDate().compareTo(transaction.getDate());
     }
+
+
+	public String getTransferFrom() {
+		return transferFrom;
+	}
+
+
+	public void setTransferFrom(String transferFrom) {
+		this.transferFrom = transferFrom;
+	}
+
+
+	public String getTransferTo() {
+		return transferTo;
+	}
+
+
+	public void setTransferTo(String transferTo) {
+		this.transferTo = transferTo;
+	}
+
+
+	public Long getAmount() {
+		return amount;
+	}
+
+
+	public void setAmount(Long amount) {
+		this.amount = amount;
+	}
+
+
+	public Date getDate() {
+		return date;
+	}
+
+
+	public void setDate(Date date) {
+		this.date = date;
+	}
 }

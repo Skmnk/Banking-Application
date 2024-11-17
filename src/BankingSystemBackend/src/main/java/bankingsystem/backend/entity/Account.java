@@ -18,5 +18,17 @@ public class Account {
     private String id;
     private String accountNo;
     private Long balance;
+	public String getAccountNo() {
+		return accountNo;
+	}
+	public void setAccountNo(String accountNo) {
+		this.accountNo = accountNo;
+	}
+	public Long getBalance() {
+		return balance;
+	}
+	public void setBalance(Long balance) {
+		this.balance = balance;
+	}
 
 }
