@@ -82,24 +82,24 @@ The app defines following APIs.
 
 ### Login
 
-![Login image]()
+![Login image](https://github.com/Skmnk/Banking-Application/blob/main/readme-images/login.jpeg)
 
 ### Register
 
-![Register image]()
+![Register image](https://github.com/Skmnk/Banking-Application/blob/main/readme-images/register.jpeg)
 
 ### Home
 
-![Dashboard image]()
+![Dashboard image](https://github.com/Skmnk/Banking-Application/blob/main/readme-images/dashboard.jpeg)
 
 ### Profile
 
-![Profile image]()
+![Profile image](https://github.com/Skmnk/Banking-Application/blob/main/readme-images/profile.jpeg)
 
 ### Transaction History
 
-![History image]()
+![History image](https://github.com/Skmnk/Banking-Application/blob/main/readme-images/history.jpeg)
 
 ### Transfer
 
-![Transfer image]()
+![Transfer image](https://github.com/Skmnk/Banking-Application/blob/main/readme-images/transfermoney.jpeg)
